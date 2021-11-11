@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAB228f187fAab927ebd1d750C83cc5a514D2d64d",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0xab228f187faab927ebd1d750c83cc5a514d2d64d",
+  "NETWORK": {
+    "NAME": "AVAX",
+    "SYMBOL": "AVAX",
+    "ID": 1
+  },
+  "NFT_NAME": "Testing",
+  "SYMBOL": "TEST",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://nftrade.com",
+  "SHOW_BACKGROUND": false
+}
